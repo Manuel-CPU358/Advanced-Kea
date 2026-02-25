@@ -82,3 +82,6 @@ To edit Kea, download everything and open ***Kea.sln*** in Visual Studio.
 - **HtmlAgilityPack** - for parsing HTML
 - **ITextSharp** - for converting images to a PDF file
 - **Newtonsoft.JSON** - for parsing JSON
+
+## iOS (Swift/Xcode) rewrite
+A native iPhone rewrite is available in [`Kea-iOS/`](Kea-iOS), including SwiftUI UI + downloader/export pipeline with the same primary features (queue, chapter range handling, PDF/CBZ/images export, HQ mode, fan translations).
